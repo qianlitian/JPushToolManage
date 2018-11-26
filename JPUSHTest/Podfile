@@ -1,0 +1,18 @@
+target 'JPUSHTest' do
+pod 'JPush'
+
+#Cordova
+
+ # pod 'Cordova'
+#  pod 'cordova-plugin-camera'
+ # pod 'cordova-plugin-console'
+ # pod 'cordova-plugin-device'
+ # pod 'cordova-plugin-splashscreen'
+ # pod 'cordova-plugin-statusbar'
+
+
+end 
+
+
+
+
